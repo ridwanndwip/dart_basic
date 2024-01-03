@@ -11,7 +11,8 @@ void main() {
   var years2 = 1;
 
   // Kata Kunci Final = NILAI tidak dapat di DEKLARASIKAN ULANG, namun masih dapat MERUBAH
-  // NILAI. bisa menggunakan contoh array. 
+  // NILAI. bisa menggunakan contoh array.
+
   // Kata Kunci Const = NILAI VARIABEL tidak bisa diubah/deklarasikan ulang & NAMA VARIABEL
   // tidak dapat diubah/di deklarasikan ulang, contoh.
 
@@ -35,5 +36,5 @@ void main() {
 
 String getValue() {
   print('getValue() dipanggil');
-  return 'Eko  Kurniawan  Khannedy';
+  return 'Ridwan Dwi Permana';
 }
